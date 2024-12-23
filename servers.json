@@ -1,12 +1,27 @@
 [
 	{
-		"name": "Hypixel",
-		"ip": "mc.hypixel.net",
+		"name": "Spot",
+		"ip": "spotgames.net",
 		"type": "PC"
 	},
 	{
-		"name": "CubeCraft",
-		"ip": "play.cubecraft.net",
+		"name": "NerdZone",
+		"ip": "nerdzone.gg",
+		"type": "PC"
+	},
+	{
+		"name": "RedeStorm",
+		"ip": "jogar.redestorm.com",
+		"type": "PC"
+	},
+	{
+		"name": "HighMC",
+		"ip": "highmc.net",
+		"type": "PC"
+	},
+	{
+		"name": "RedeSmite",
+		"ip": "redesmite.com",
 		"type": "PC"
 	}
 ]
